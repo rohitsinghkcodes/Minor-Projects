@@ -1,0 +1,116 @@
+-------------------
+Date: 20:12:2020
+Time: 14:24
+Phone number: +916398936804
+Message: Checking for Automated message
+--------------------
+Date: 20:12:2020
+Time: 15:0
+Phone number: +916398936804
+Message: Checking for Automated message
+--------------------
+Date: 20:12:2020
+Time: 14:30
+Phone number: +916398936804
+Message: Checking for Automated message
+--------------------
+Date: 20:12:2020
+Time: 14:35
+Phone number: +918433281229
+Message: Checking for Automated message
+--------------------
+Date: 20:12:2020
+Time: 14:35
+Phone number: +916398936804
+Message: Checking for Automated message
+--------------------
+Date: 20:12:2020
+Time: 14:59
+Phone number: +918433281229
+Message: checking automation message
+--------------------
+Date: 20:12:2020
+Time: 15:0
+Phone number: +917830721188
+Message: automation message check
+--------------------
+Date: 20:12:2020
+Time: 15:3
+Phone number: +917830721188
+Message: automated message check
+--------------------
+Date: 20:12:2020
+Time: 15:5
+Phone number: +917830721188
+Message: automated message checking test 2
+--------------------
+Date: 20:12:2020
+Time: 15:7
+Phone number: +917830721188
+Message: automated msg check 2
+--------------------
+Date: 20:12:2020
+Time: 15:10
+Phone number: +917830721188
+Message: automated message test2
+--------------------
+Date: 20:12:2020
+Time: 15:12
+Phone number: +917830721188
+Message: automated msg check 2
+--------------------
+Date: 23:10:2021
+Time: 11:7
+Phone number: +919931496730
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 23:10:2021
+Time: 11:8
+Phone number: +919931496730
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 23:10:2021
+Time: 11:11
+Phone number: +919931496730
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 23:10:2021
+Time: 11:15
+Phone number: +919931496730
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 23:10:2021
+Time: 11:15
+Phone number: +919931496730
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 23:10:2021
+Time: 11:24
+Phone number: +919931496730
+Message: hell
+--------------------
+Date: 23:10:2021
+Time: 11:26
+Phone number: +919931496730
+Message: ll
+--------------------
+Date: 23:10:2021
+Time: 11:30
+Phone number: +919931496730
+Message: kkk
+--------------------
+Date: 23:10:2021
+Time: 11:32
+Phone number: +919931496730
+Message: Hello from r
+--------------------
+Date: 23:10:2021
+Time: 11:32
+Phone number: +919931496730
+Message: Hello from r
+--------------------
+Date: 23:10:2021
+Time: 11:23
+Phone number: +919931496730
+Message: Hello from r
+--------------------
